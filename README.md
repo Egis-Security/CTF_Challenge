@@ -13,4 +13,5 @@ In the issue description, clearly explain the following:
 First-Come, First-Served: The first correct submission for each challenge will be considered the winner. Ensure your report is detailed and accurate!
 
 ## Prizes: 
-- For each challenge, the first person to submit a correct and detailed report of the bug will receive $200 USDC.
+- For each challenge, the total pool is  $200 USDC.
+- Rewards are distributed to the first person who finds it
