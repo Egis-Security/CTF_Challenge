@@ -1,8 +1,8 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.18;
 
-import "@openzeppelin-5.0.1/contracts/token/ERC721/ERC721.sol";
-import "@openzeppelin-5.0.1/contracts/utils/Counters.sol";
+import "@openzeppelin/contracts/token/ERC721/ERC721.sol";
+import "@openzeppelin/contracts/utils/Counters.sol";
 
 contract BuggyNFTVault is ERC721 {
     using Counters for Counters.Counter;
