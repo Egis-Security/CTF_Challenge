@@ -32,7 +32,7 @@ contract BuggyNFTVault is ERC721, ERC721Burnable {
         _tokenIds.increment();
         uint256 newTokenId = _tokenIds.current();
 
-        deposits[msg.sender] = msg.value;
+        deposits[msg.sender] += msg.value;
 
         _mint(msg.sender, newTokenId);
     }
@@ -46,7 +46,7 @@ contract BuggyNFTVault is ERC721, ERC721Burnable {
 
         // Burn the NFT to complete the withdrawal process.
         _burn(tokenId);
-        deposits[tokenId] -= depositRequired;
+        deposits[msg.sender] -= depositRequired;
 
         (bool success, ) = msg.sender.call{value: depositRequired}(" ");
         require(success, "Transfer failed");
