@@ -1,4 +1,4 @@
-# CTF_Challenge
+# CTF Challenge Guidelines
 
 ## Submission Guidelines
 - **Submitting a Report**: Use the Issues tab in this repository to submit your findings.
