@@ -1,3 +1,11 @@
+## Prelim Result 
+
+| Name | Reward | Issues |
+|----------|----------|----------|
+| Chidubemkingsley | $100 | #29 |
+| highskore | $100 | #34 |
+
+
 ## Summary
 **`ExtraSafeExternalCall.sol` is a Solidity smart contract that:**
 
