@@ -16,9 +16,9 @@ Below are the auditors who managed to be the first to submit a valid non-informa
 
 | Name | Reward | Issues |
 |----------|----------|----------|
-| sammy-tm | $150 | #1(patial) , #22(patial) |
+| sammy-tm | $150 | #1(partial) , #22(partial) |
 | dimi6oni | $75 | #2(partial)|
-| highskore | $75 | #23(patial) |
+| highskore | $75 | #23(partial) |
 | Viktor-Andreev4 | $150 | #27 |
 | v-kirilov | $150 | #30 |
 
